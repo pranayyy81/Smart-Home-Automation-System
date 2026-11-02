@@ -240,7 +240,5 @@ Smart-Home-Automation-System/
 ## Team
 
 - **Sammeti Venkata Pranay** · 2024002593
-- B. Mokshith Reddy · 2024005604
-- R. Bala Aditya Kumar · 2024185482
 
 Department of Electronics and Communication Engineering, GITAM (Deemed to be University), Visakhapatnam.
